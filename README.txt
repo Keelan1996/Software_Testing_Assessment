@@ -4,7 +4,7 @@ For this assessment I had to do the following:
 
 2. Test Plan consisting of test cases. 
 
-The website I chose to do this on was Github.com. Futher explaination of what I was asked to do is within the "Continuous Assessment 2022.pdf" thats within this repository.
+The website I chose to do this on was Github.com. Further explaination of what I was asked to do is within the "Continuous Assessment 2022.pdf" thats within this repository.
 
 
 I've sent the businees requirements in both word doc and PDF format in case
